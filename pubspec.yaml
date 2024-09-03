@@ -1,0 +1,29 @@
+name: hexify
+description: "A powerful and flexible Flutter package for color manipulation and gradient creation. Hexify simplifies the process of working with hex colors, RGBO values, and gradients, making it easy for beginners and experienced developers to create beautiful color schemes in their Flutter applications."
+version: 0.0.3
+homepage: https://github.com/deep-esh7/hexify
+repository: https://github.com/deep-esh7/hexify
+issue_tracker: https://github.com/deep-esh7/hexify/issues
+
+environment:
+  sdk: ^3.5.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  # No specific Flutter configurations needed for this package
+
+# Keywords to help users find your package when searching on pub.dev
+topics:
+  - color
+  - gradient
+  - hexcolor
+  - flutter-ui
